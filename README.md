@@ -1,4 +1,4 @@
-- 👋 Hi, We are @bytexionl the Bytexi Technology.
+- 👋 Hi, We are @bytexi the Bytexi Technology.
 - 👀 We are provide Freelance System Administrator support 
 - 🌱 We are Completed many Different Diffrent project as our buyer requirement.
 - 💞️ We are looking to collaborate on ...
